@@ -9,8 +9,8 @@ Develop a copy of sokoban game in terminal mode, using the ncurses library.
     ./my_sokoban map
 
 #### Description
-  map     file representing the warehouse map, containing ‘#’ for walls,
-          ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
+    map     file representing the warehouse map, containing ‘#’ for walls,
+            ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
 
 ## Result
 100% moulinette Epitech
